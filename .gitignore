@@ -1,0 +1,5 @@
+.env
+logs/
+data/*.csv
+__pycache__/
+config/airflow.cfg
